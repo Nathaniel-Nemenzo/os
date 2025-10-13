@@ -5,8 +5,9 @@
 
 ## Tenets
 0. Build everything from scratch
-1. Test driven development
-2. Clean code 
+   - Well ... maybe not *everything* (we'll run with an off-the-shelf bootloader for now), everything os-related is free game though
+2. Test driven development
+3. Clean code 
 
 ## What I Expect to Learn
 0. Vim motions (I will aim to primarily use Vim on this project)
